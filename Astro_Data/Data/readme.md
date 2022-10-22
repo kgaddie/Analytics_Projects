@@ -1,2 +1,0 @@
-# Readme - Astro Data Files
-
